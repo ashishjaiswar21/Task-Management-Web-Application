@@ -1,7 +1,8 @@
 import streamlit as st 
 import requests
 
-BASE_URL = "http://127.0.0.1:8000"
+# BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://task-management-web-application-tbnu.onrender.com"
 
 # ---------------- PAGE CONFIGURATION ----------------
 # This sets the browser tab title, icon, and makes the app wide
