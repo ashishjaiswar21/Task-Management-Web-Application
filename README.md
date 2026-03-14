@@ -10,7 +10,9 @@
 
 **A high-performance full-stack Task Management system built with FastAPI, Streamlit, and PostgreSQL.**
 
-[API Docs](http://127.0.0.1:8000/docs) · [Report Bug](https://github.com/ashishjaiswar21/Task-Management-Web-Application/issues) · [Request Feature](https://github.com/ashishjaiswar21/Task-Management-Web-Application/issues)
+## 🚀 Live Demo
+* **Frontend Dashboard (Streamlit):** [Click here to view the app](https://task-frontend-8hov.onrender.com)
+* **Backend API Documentation (FastAPI):** [Click here to view the Swagger UI](https://task-management-web-application-tbnu.onrender.com/docs)
 
 </div>
 
